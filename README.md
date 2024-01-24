@@ -1,2 +1,1 @@
-# PrepCourse-henry
-Este es un repositorio de prueba de PrepCourse de Henry 
+este proyecto es una prueba de como crear un repositorio desde gitgub y clonarlo a mi escritorio local 
